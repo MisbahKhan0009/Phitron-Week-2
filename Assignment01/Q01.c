@@ -10,5 +10,5 @@ b=temp;
 
 //End of code 
 printf("%d and %d", a, b);
-    return 0;
+return 0;
 }
